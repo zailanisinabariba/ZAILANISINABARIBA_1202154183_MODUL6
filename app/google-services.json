@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212291526610",
+    "firebase_url": "https://zailani-firebase.firebaseio.com",
+    "project_id": "zailani-firebase",
+    "storage_bucket": "zailani-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212291526610:android:d8ec5ecf0450c38c",
+        "android_client_info": {
+          "package_name": "com.modul6.zailanisinabariba_1202154183_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212291526610-1imo25adg14buaprasobem82ktllalua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modul6.zailanisinabariba_1202154183_modul6",
+            "certificate_hash": "c8069908406adb3f3d305eb6f94f26d728237dab"
+          }
+        },
+        {
+          "client_id": "212291526610-4uf42srie02bvum6tf38g2gt1qgrag4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwfGz3Fk39TCm8aCZnONYYXL5iO-XoYNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212291526610-4uf42srie02bvum6tf38g2gt1qgrag4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
